@@ -1,0 +1,16 @@
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Fragesport\Fragesport\Fragesport\obj\Debug\net5.0\Fragesport.csproj.AssemblyReference.cache
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Fragesport\Fragesport\Fragesport\obj\Debug\net5.0\Fragesport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Fragesport\Fragesport\Fragesport\obj\Debug\net5.0\Fragesport.AssemblyInfoInputs.cache
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Fragesport\Fragesport\Fragesport\obj\Debug\net5.0\Fragesport.AssemblyInfo.cs
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Fragesport\Fragesport\Fragesport\obj\Debug\net5.0\Fragesport.csproj.CoreCompileInputs.cache
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Fragesport\Fragesport\Fragesport\bin\Debug\net5.0\Fragesport.exe
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Fragesport\Fragesport\Fragesport\bin\Debug\net5.0\Fragesport.deps.json
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Fragesport\Fragesport\Fragesport\bin\Debug\net5.0\Fragesport.runtimeconfig.json
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Fragesport\Fragesport\Fragesport\bin\Debug\net5.0\Fragesport.runtimeconfig.dev.json
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Fragesport\Fragesport\Fragesport\bin\Debug\net5.0\Fragesport.dll
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Fragesport\Fragesport\Fragesport\bin\Debug\net5.0\Fragesport.pdb
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Fragesport\Fragesport\Fragesport\obj\Debug\net5.0\Fragesport.dll
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Fragesport\Fragesport\Fragesport\obj\Debug\net5.0\refint\Fragesport.dll
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Fragesport\Fragesport\Fragesport\obj\Debug\net5.0\Fragesport.pdb
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Fragesport\Fragesport\Fragesport\obj\Debug\net5.0\Fragesport.genruntimeconfig.cache
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Fragesport\Fragesport\Fragesport\obj\Debug\net5.0\ref\Fragesport.dll

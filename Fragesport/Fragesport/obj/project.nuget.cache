@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "teD3t4XGYtZBZ4wYPnZRj9yjA6ISJpaOxUDjk5rzzFGrj/+rQ9U1higqr8621Qgi+BZGW/Z1NfWb6RI/f76SyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leo.Kujala\\Desktop\\Skola\\KOD\\Fragesport\\Fragesport\\Fragesport\\Fragesport.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leo.Kujala\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
